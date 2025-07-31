@@ -1,1 +1,1 @@
-# lukacosmo-ai
+# cosmo-ai.github.io
